@@ -1,0 +1,26 @@
+//Dadas dos variables numéricas A y B, que el usuario debe teclear, se pide realizar un algoritmo que
+	//intercambie los valores de ambas variables y muestre cuánto valen al final cada una de ellas
+	//(recuerda la asignación).
+	
+	
+	//Definimos todas las variables 
+  
+	Definir a Como Entero;
+	Definir b Como Entero;
+	Definir aux Como Entero;
+  
+	//leemos las variables que necesitamos
+  
+	Leer a;
+	Leer b;
+  
+	//guardamos el valor de a en otra variable aux para no perderlo
+	aux=a;
+	//sobreescribimos los valores una vez tenemos la variable aux con el valor de a
+  
+	a=b;
+	b=aux;
+	Escribir A , b;
+  
+	//siempre que queramos intercambiar valores de alguna variable debemos guardar la primera en otra variable aux
+	//para no perder el valor de la primera variable.
