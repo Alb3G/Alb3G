@@ -8,7 +8,7 @@ I am a dedicated programming student with experience in DAM and 42 Malaga, where
 
 *   🌍  I'm based in Spain-Malaga
 *   ✉️  You can contact me at [guzmanmorenoalberto1998@gmail.com](mailto:guzmanmorenoalberto1998@gmail.com)
-*   🧠  I'm learning Go, Java and BackEnd fundamentals
+*   🧠  I'm learning Rust, Java and BackEnd fundamentals
 *   🤝  I'm open to collaborating on any project
 
     ### Skills 
